@@ -13,8 +13,11 @@ After CMD opens up you're gonna type in
 pip install -r requirements.txt
 
 ![Screenshot_2](https://user-images.githubusercontent.com/101457345/159184974-67879ddb-07a8-472f-9074-b4fe78886680.png)
+
 wait for it to end and close it down.
 Congrats now you can use the tool!
+
+
 Its very simple to use
 ![image](https://user-images.githubusercontent.com/101457345/159185019-764c1987-6687-4427-a382-dd8511c587a2.png)
 ![image](https://user-images.githubusercontent.com/101457345/159185040-f07d6677-120f-4d73-8ea2-692a3eef8f1e.png)
