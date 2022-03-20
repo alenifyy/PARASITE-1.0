@@ -23,7 +23,8 @@ OPTION 1.
 ![image](https://user-images.githubusercontent.com/101457345/159185090-4fcca2c0-8ae4-46e2-9f45-0f7b15b8c38b.png)
 yeah this lets you chat with the thing!
 
-OPTION 2. This lets you edit the webhook (IMAGE URL IS STILL NOT COMPLETE SO IT WONT WORK!)[image](https://user-images.githubusercontent.com/101457345/159185174-a7aec2cb-2d44-48ab-a0ab-7a8b86a68e86.png)
+OPTION 2. This lets you edit the webhook (IMAGE URL IS STILL NOT COMPLETE SO IT WONT WORK!) 
+[image](https://user-images.githubusercontent.com/101457345/159185174-a7aec2cb-2d44-48ab-a0ab-7a8b86a68e86.png)
 
 
 An finally the killswitch OPTION 3.
