@@ -8,8 +8,10 @@ so how to do this?
 go inside the alenify's webhook fucker and 
 ![Screenshot_1](https://user-images.githubusercontent.com/101457345/159184958-e978ca8d-ecc9-4330-ac5c-a2f1dcdd4bf6.png) 
 do that.
+
 After CMD opens up you're gonna type in 
 pip install -r requirements.txt
+
 ![Screenshot_2](https://user-images.githubusercontent.com/101457345/159184974-67879ddb-07a8-472f-9074-b4fe78886680.png)
 wait for it to end and close it down.
 Congrats now you can use the tool!
@@ -24,7 +26,8 @@ OPTION 1.
 yeah this lets you chat with the thing!
 
 OPTION 2. This lets you edit the webhook (IMAGE URL IS STILL NOT COMPLETE SO IT WONT WORK!) 
-[image](https://user-images.githubusercontent.com/101457345/159185174-a7aec2cb-2d44-48ab-a0ab-7a8b86a68e86.png)
+
+![image](https://user-images.githubusercontent.com/101457345/159185174-a7aec2cb-2d44-48ab-a0ab-7a8b86a68e86.png)
 
 
 An finally the killswitch OPTION 3.
