@@ -33,6 +33,6 @@ OPTION 2. This lets you edit the webhook (IMAGE URL IS STILL NOT COMPLETE SO IT 
 ![image](https://user-images.githubusercontent.com/101457345/159185174-a7aec2cb-2d44-48ab-a0ab-7a8b86a68e86.png)
 
 
-An finally the killswitch OPTION 3.
+An finally the killswitch OPTION 3. It lets you delete the webhook and also say one more word before doing so.
 ![image](https://user-images.githubusercontent.com/101457345/159185202-a164b49c-5e31-4b44-95e2-69a46783dcee.png)
-thats basically it.
+
