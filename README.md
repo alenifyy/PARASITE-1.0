@@ -5,9 +5,9 @@ This tool is used for discord webhooks, with it you can basically chat as a webh
 DOWNLOAD PROCESS:
 To use the tool you have to download the requirements.
 so how to do this?
-go inside the alenify's webhook fucker and 
+go inside the do that.
 ![Screenshot_1](https://user-images.githubusercontent.com/101457345/159184958-e978ca8d-ecc9-4330-ac5c-a2f1dcdd4bf6.png) 
-do that.
+
 
 After CMD opens up you're gonna type in 
 pip install -r requirements.txt
