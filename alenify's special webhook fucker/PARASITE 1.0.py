@@ -31,7 +31,7 @@ base_url = "https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN"
 url = ""
 
 while True:
-    option2 = input("""Select your option:
+    option2 = input("""select your option:
 [1] through url.
 [2] coming soon
 
