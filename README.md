@@ -1,135 +1,76 @@
-Hey this is a tool i created for discord webhooks. It allows you to chat,edit and delete a discord webhook, its very simple to use aswell!
+# PARASITE 1.0
 
-FAQ:
----------------------------------------------------------------------------
-1. Is this a skid?
-Nope its open source, you can view the code for yourself.
+![giphy (1)](https://user-images.githubusercontent.com/101457345/159496095-ea10346b-be2a-4e6e-88a3-6f62215f0d3d.gif)
 
-2. I cant open it up!
-You either don't have Python or you didn't download the requirements.
+---
 
+### Table of Contents
+Your sections headers will be used to reference location of destination.
 
-How to download Python?
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [Author Info](#author-info)
+- [Tool Showcase](#tool-showcase)
 
 
-https://www.python.org/downloads/ - Link
-![image](https://user-images.githubusercontent.com/101457345/159319231-8a255c99-24d6-4342-875b-2bbc3d90881f.png) Now you download the latest version.
-Now if this appears don't worry, it isn't a virus it's just your antivirus being gay af.
-![image](https://user-images.githubusercontent.com/101457345/159321928-97a3b866-b7f5-4700-936e-446e5e441627.png) 
+---
 
-After closing the gay bullshit you're gonna move on to the installation
+## Description
 
-![image](https://user-images.githubusercontent.com/101457345/159323786-2b243d0a-6c0e-4a42-9a5d-2d7bb30aa240.png)
+This tool is made for Discord-Webhooks, you just need a url of the webhook and done! After that you can chat,edit and delete the webhook!
 
-After its download and now you have python its time to download the requirements
--------------------------------------------------------------------------------------------------------------
-When you're done extracting go to your folder where you've put the PARASITE 1.0 and type CMD in here
-![image](https://user-images.githubusercontent.com/101457345/159326066-a708df8c-e725-472e-ae31-4b0c1f1538a9.png)
 
-After CMD opens up you're gonna run the command: pip install -r requirements.txt
-![image](https://user-images.githubusercontent.com/101457345/159326427-86cb64b4-1668-41d8-9914-eb8827b4f6bc.png)
 
-and when it downloads you're good to go!
-------------------------------------------------------------------------------------------------------------------------
-*3. HOW TO USE PLIZ HELP MAN!!!!*
-![image](https://user-images.githubusercontent.com/101457345/159326825-89ef162c-9cbf-4324-9ffe-8f2658ed7766.png)
 
-For now you only have one option that is through url.
-![image](https://user-images.githubusercontent.com/101457345/159327064-c3883355-c2e8-4e04-b4fc-a826051a2df9.png)
-After typing your url in the session will begin.
-![image](https://user-images.githubusercontent.com/101457345/159327206-362e78f0-5f97-49d0-96ba-8b69b9656a7e.png)
+---
 
-You have 3 options,
-1. Talk
-2. Edit it (EDITING THE IMAGE IS STILL BEING WORKED ON DONT USE IT BECAUSE IT WONT WORK!)
-3. Kill the webhook (Deletes it)
+## How To Use
 
----------------------------------
-Here's how option 1 looks like.
-![image](https://user-images.githubusercontent.com/101457345/159327738-1748246c-0e32-40ca-9eb1-64ad2d6c6ce4.png)
+#### Installation
+To download the tool you need Python!
+https://www.python.org/downloads/
+![image](https://user-images.githubusercontent.com/101457345/159497276-325e8a14-3dca-42a9-a242-114743caad87.png) 
 
-OPTION 2:
+When you open the installer up you are gonna select this option!
 
-![image](https://user-images.githubusercontent.com/101457345/159328326-5438e1a1-4bbb-4ae2-a194-f6a71570c28a.png)
-![image](https://user-images.githubusercontent.com/101457345/159328360-dd172a50-8e2a-4156-9748-785b7ff2a1f7.png)
+![image](https://user-images.githubusercontent.com/101457345/159497829-43d0ee76-23a4-42da-af78-b9acf01ae19f.png)
 
-AND FINALLY OPTION 3:
+After Python is installed, extract PARASITE to your desktop and open the folder up and follow the gif. "pip install -r requirements.txt"
 
-![image](https://user-images.githubusercontent.com/101457345/159328555-5d93dfc2-7c6c-4c3f-ae9d-eb3fe38f25fb.png)
+![ezgif-2-4a1ce744ca](https://user-images.githubusercontent.com/101457345/159503295-96499354-8e46-4e83-9625-995e8ee572ad.gif)
 
-thats all i've got to say my dude.
 
+---
 
+## Tool Showcase
+For now there's only 1 option and that is to control the webhook.
 
+![image](https://user-images.githubusercontent.com/101457345/159508979-f6935e2d-bbc0-4ab1-85e0-8e130d8748e0.png)
 
+after you type the wbhook url in you can do the following
+### 1. CHAT WITH THE WEBHOOK
 
+![image](https://user-images.githubusercontent.com/101457345/159509502-6becbe57-724f-4223-9c76-fa19057c2936.png)
 
 
+## 2. EDIT THE WEBHOOK
+This one is super buggy, if you want to change the name I suggest you do it before you chat because you will get an error.
 
+![image](https://user-images.githubusercontent.com/101457345/159509859-5d687c44-2309-4b8b-b225-014a08ee50e7.png)
 
 
 
 
+# 3. DELETE IT!
+This is the last thing you'll see before deleting it!
+![image](https://user-images.githubusercontent.com/101457345/159510589-e3e7a2d5-d30f-466a-97e3-a4d00e70f1cc.png)
 
+![image](https://user-images.githubusercontent.com/101457345/159511434-7aa10636-5411-4f9b-9aa8-aa9ba702e211.png)
 
+---
 
 
+## Author Info
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Twitter - @alenifyy https://twitter.com/alenifyy
+- Discord - @alenify#3808
