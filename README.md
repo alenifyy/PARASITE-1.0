@@ -1,4 +1,5 @@
 # PARASITE 1.0
+Warning this still has some bugs and some features don't work!
 
 ![giphy (1)](https://user-images.githubusercontent.com/101457345/159496095-ea10346b-be2a-4e6e-88a3-6f62215f0d3d.gif)
 
