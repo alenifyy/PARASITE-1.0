@@ -17,10 +17,10 @@ def clear():
 ░░         ░   ▒     ░░   ░   ░   ▒   ░  ░  ░   ▒ ░  ░         ░   
                ░  ░   ░           ░  ░      ░   ░              ░  ░
                                                    
-                                                   Tool made by alenify#3808 
+                                                   Tool made by alenify#7561 
                                                    if you find any bugs feel free to dm!
                                                    fuck anyone who skids this shit.
-                                                   
+                                                   FUCK YOU DISCORD, YOU DELETED MY ACCOUNT YOU PIECE OF NIGERIAN BULLSHIT.
                                                                                                  
     """ + Fore.GREEN)   
 
