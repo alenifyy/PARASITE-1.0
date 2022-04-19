@@ -74,4 +74,4 @@ This is the last thing you'll see before deleting it!
 ## Author Info
 
 - Twitter - @alenifyy https://twitter.com/alenifyy
-- Discord - @alenify#3808
+- Discord - alenify#7561
